@@ -1,0 +1,246 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\acard\\source\\repos\\TesteTecnicoDigitas\\app\\src\\TesteTecnicoDigitas.UnitTests\\TesteTecnicoDigitas.UnitTests.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\acard\\source\\repos\\TesteTecnicoDigitas\\app\\src\\TesteTecnicoDigitas.Domain\\TesteTecnicoDigitas.Domain.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\acard\\source\\repos\\TesteTecnicoDigitas\\app\\src\\TesteTecnicoDigitas.Domain\\TesteTecnicoDigitas.Domain.csproj",
+        "projectName": "TesteTecnicoDigitas.Domain",
+        "projectPath": "C:\\Users\\acard\\source\\repos\\TesteTecnicoDigitas\\app\\src\\TesteTecnicoDigitas.Domain\\TesteTecnicoDigitas.Domain.csproj",
+        "packagesPath": "C:\\Users\\acard\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\acard\\source\\repos\\TesteTecnicoDigitas\\app\\src\\TesteTecnicoDigitas.Domain\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\acard\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "MediatR": {
+              "target": "Package",
+              "version": "[12.1.1, )"
+            },
+            "Microsoft.Extensions.Configuration.Abstractions": {
+              "target": "Package",
+              "version": "[7.0.0, )"
+            },
+            "Newtonsoft.Json": {
+              "target": "Package",
+              "version": "[13.0.3, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.402\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\acard\\source\\repos\\TesteTecnicoDigitas\\app\\src\\TesteTecnicoDigitas.Infrastructure\\TesteTecnicoDigitas.Infrastructure.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\acard\\source\\repos\\TesteTecnicoDigitas\\app\\src\\TesteTecnicoDigitas.Infrastructure\\TesteTecnicoDigitas.Infrastructure.csproj",
+        "projectName": "TesteTecnicoDigitas.Infrastructure",
+        "projectPath": "C:\\Users\\acard\\source\\repos\\TesteTecnicoDigitas\\app\\src\\TesteTecnicoDigitas.Infrastructure\\TesteTecnicoDigitas.Infrastructure.csproj",
+        "packagesPath": "C:\\Users\\acard\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\acard\\source\\repos\\TesteTecnicoDigitas\\app\\src\\TesteTecnicoDigitas.Infrastructure\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\acard\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "C:\\Users\\acard\\source\\repos\\TesteTecnicoDigitas\\app\\src\\TesteTecnicoDigitas.Domain\\TesteTecnicoDigitas.Domain.csproj": {
+                "projectPath": "C:\\Users\\acard\\source\\repos\\TesteTecnicoDigitas\\app\\src\\TesteTecnicoDigitas.Domain\\TesteTecnicoDigitas.Domain.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "MediatR": {
+              "target": "Package",
+              "version": "[12.1.1, )"
+            },
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[7.0.10, )"
+            },
+            "Microsoft.Extensions.Configuration.Abstractions": {
+              "target": "Package",
+              "version": "[7.0.0, )"
+            },
+            "MongoDB.Driver": {
+              "target": "Package",
+              "version": "[2.21.0, )"
+            },
+            "Newtonsoft.Json": {
+              "target": "Package",
+              "version": "[13.0.3, )"
+            },
+            "System.Data.SqlClient": {
+              "target": "Package",
+              "version": "[4.8.5, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.402\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\acard\\source\\repos\\TesteTecnicoDigitas\\app\\src\\TesteTecnicoDigitas.UnitTests\\TesteTecnicoDigitas.UnitTests.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\acard\\source\\repos\\TesteTecnicoDigitas\\app\\src\\TesteTecnicoDigitas.UnitTests\\TesteTecnicoDigitas.UnitTests.csproj",
+        "projectName": "TesteTecnicoDigitas.UnitTests",
+        "projectPath": "C:\\Users\\acard\\source\\repos\\TesteTecnicoDigitas\\app\\src\\TesteTecnicoDigitas.UnitTests\\TesteTecnicoDigitas.UnitTests.csproj",
+        "packagesPath": "C:\\Users\\acard\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\acard\\source\\repos\\TesteTecnicoDigitas\\app\\src\\TesteTecnicoDigitas.UnitTests\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\acard\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "C:\\Users\\acard\\source\\repos\\TesteTecnicoDigitas\\app\\src\\TesteTecnicoDigitas.Infrastructure\\TesteTecnicoDigitas.Infrastructure.csproj": {
+                "projectPath": "C:\\Users\\acard\\source\\repos\\TesteTecnicoDigitas\\app\\src\\TesteTecnicoDigitas.Infrastructure\\TesteTecnicoDigitas.Infrastructure.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "Moq": {
+              "target": "Package",
+              "version": "[4.20.69, )"
+            },
+            "xunit": {
+              "target": "Package",
+              "version": "[2.5.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.402\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

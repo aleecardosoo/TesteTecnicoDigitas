@@ -1,0 +1,16 @@
+{
+  "version": 2,
+  "dgSpecHash": "vM2xU1uq0O03mK6V73uKmkVy9ktYsR+M6Im4FnEkPuWtVi6H7KRdPkOFutk0KmF1qAxpLggrk/Wi2XEDAnVWig==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\acard\\source\\repos\\TesteTecnicoDigitas\\app\\src\\TesteTecnicoDigitas.Domain\\TesteTecnicoDigitas.Domain.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\acard\\.nuget\\packages\\mediatr\\12.1.1\\mediatr.12.1.1.nupkg.sha512",
+    "C:\\Users\\acard\\.nuget\\packages\\mediatr.contracts\\2.0.1\\mediatr.contracts.2.0.1.nupkg.sha512",
+    "C:\\Users\\acard\\.nuget\\packages\\microsoft.extensions.configuration.abstractions\\7.0.0\\microsoft.extensions.configuration.abstractions.7.0.0.nupkg.sha512",
+    "C:\\Users\\acard\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\6.0.0\\microsoft.extensions.dependencyinjection.abstractions.6.0.0.nupkg.sha512",
+    "C:\\Users\\acard\\.nuget\\packages\\microsoft.extensions.primitives\\7.0.0\\microsoft.extensions.primitives.7.0.0.nupkg.sha512",
+    "C:\\Users\\acard\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512",
+    "C:\\Users\\acard\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\6.0.0\\system.runtime.compilerservices.unsafe.6.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
