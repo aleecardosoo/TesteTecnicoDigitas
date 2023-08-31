@@ -7,4 +7,4 @@ build_property.InvariantGlobalization =
 build_property.PlatformNeutralAssembly = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = TesteTecnicoDigitas.Domain
-build_property.ProjectDir = C:\Users\acard\source\repos\TesteTecnicoDigitas\app\src\TesteTecnicoDigitas.Domain\
+build_property.ProjectDir = C:\TesteTecnicoDigitas\app\src\TesteTecnicoDigitas.Domain\

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "cyeV9Vk8L7UGWmngfy6pfBA/isO5zZ/fHAl9TdFe0eT7I8Fn9CkQkHRCuUPBMkRmEnr1IgY46ZwKyWbjhTv7ug==",
+  "dgSpecHash": "pmfuTTfNKY2XfKkl7gCrYJJTHB4S5icDRk8oSM5rC9WVCKehfPakpjcItxWQGrIBsH3++2k+KOhdoNIFetv8lQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\acard\\source\\repos\\TesteTecnicoDigitas\\app\\src\\TesteTecnicoDigitas.Api\\TesteTecnicoDigitas.Api.csproj",
+  "projectFilePath": "C:\\TesteTecnicoDigitas\\app\\src\\TesteTecnicoDigitas.Api\\TesteTecnicoDigitas.Api.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\acard\\.nuget\\packages\\awssdk.core\\3.7.100.14\\awssdk.core.3.7.100.14.nupkg.sha512",
     "C:\\Users\\acard\\.nuget\\packages\\awssdk.securitytoken\\3.7.100.14\\awssdk.securitytoken.3.7.100.14.nupkg.sha512",

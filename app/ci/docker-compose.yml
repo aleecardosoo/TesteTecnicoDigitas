@@ -20,7 +20,7 @@ services:
       ME_CONFIG_MONGODB_URL: mongodb://root:example@mongo:27017/
 
   teste_tecnico_digitas:
-    build: ../src/TesteTecnicoDigitas.Api/TesteTecnicoDigitas.Api.csproj
+    build: TesteTecnicoDigitas.Api/TesteTecnicoDigitas.sln
     ports:
       - "80:80"
     depends_on:

@@ -297,11 +297,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\acard\\source\\repos\\TesteTecnicoDigitas\\app\\src\\TesteTecnicoDigitas.Domain\\TesteTecnicoDigitas.Domain.csproj",
+      "projectUniqueName": "C:\\TesteTecnicoDigitas\\app\\src\\TesteTecnicoDigitas.Domain\\TesteTecnicoDigitas.Domain.csproj",
       "projectName": "TesteTecnicoDigitas.Domain",
-      "projectPath": "C:\\Users\\acard\\source\\repos\\TesteTecnicoDigitas\\app\\src\\TesteTecnicoDigitas.Domain\\TesteTecnicoDigitas.Domain.csproj",
+      "projectPath": "C:\\TesteTecnicoDigitas\\app\\src\\TesteTecnicoDigitas.Domain\\TesteTecnicoDigitas.Domain.csproj",
       "packagesPath": "C:\\Users\\acard\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\acard\\source\\repos\\TesteTecnicoDigitas\\app\\src\\TesteTecnicoDigitas.Domain\\obj\\",
+      "outputPath": "C:\\TesteTecnicoDigitas\\app\\src\\TesteTecnicoDigitas.Domain\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

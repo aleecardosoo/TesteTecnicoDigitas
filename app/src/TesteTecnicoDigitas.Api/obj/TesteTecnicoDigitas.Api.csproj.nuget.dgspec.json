@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\acard\\source\\repos\\TesteTecnicoDigitas\\app\\src\\TesteTecnicoDigitas.Api\\TesteTecnicoDigitas.Api.csproj": {}
+    "C:\\TesteTecnicoDigitas\\app\\src\\TesteTecnicoDigitas.Api\\TesteTecnicoDigitas.Api.csproj": {}
   },
   "projects": {
-    "C:\\Users\\acard\\source\\repos\\TesteTecnicoDigitas\\app\\src\\TesteTecnicoDigitas.Api\\TesteTecnicoDigitas.Api.csproj": {
+    "C:\\TesteTecnicoDigitas\\app\\src\\TesteTecnicoDigitas.Api\\TesteTecnicoDigitas.Api.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\acard\\source\\repos\\TesteTecnicoDigitas\\app\\src\\TesteTecnicoDigitas.Api\\TesteTecnicoDigitas.Api.csproj",
+        "projectUniqueName": "C:\\TesteTecnicoDigitas\\app\\src\\TesteTecnicoDigitas.Api\\TesteTecnicoDigitas.Api.csproj",
         "projectName": "TesteTecnicoDigitas.Api",
-        "projectPath": "C:\\Users\\acard\\source\\repos\\TesteTecnicoDigitas\\app\\src\\TesteTecnicoDigitas.Api\\TesteTecnicoDigitas.Api.csproj",
+        "projectPath": "C:\\TesteTecnicoDigitas\\app\\src\\TesteTecnicoDigitas.Api\\TesteTecnicoDigitas.Api.csproj",
         "packagesPath": "C:\\Users\\acard\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\acard\\source\\repos\\TesteTecnicoDigitas\\app\\src\\TesteTecnicoDigitas.Api\\obj\\",
+        "outputPath": "C:\\TesteTecnicoDigitas\\app\\src\\TesteTecnicoDigitas.Api\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -33,8 +33,8 @@
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "C:\\Users\\acard\\source\\repos\\TesteTecnicoDigitas\\app\\src\\TesteTecnicoDigitas.Infrastructure\\TesteTecnicoDigitas.Infrastructure.csproj": {
-                "projectPath": "C:\\Users\\acard\\source\\repos\\TesteTecnicoDigitas\\app\\src\\TesteTecnicoDigitas.Infrastructure\\TesteTecnicoDigitas.Infrastructure.csproj"
+              "C:\\TesteTecnicoDigitas\\app\\src\\TesteTecnicoDigitas.Infrastructure\\TesteTecnicoDigitas.Infrastructure.csproj": {
+                "projectPath": "C:\\TesteTecnicoDigitas\\app\\src\\TesteTecnicoDigitas.Infrastructure\\TesteTecnicoDigitas.Infrastructure.csproj"
               }
             }
           }
@@ -85,14 +85,14 @@
         }
       }
     },
-    "C:\\Users\\acard\\source\\repos\\TesteTecnicoDigitas\\app\\src\\TesteTecnicoDigitas.Domain\\TesteTecnicoDigitas.Domain.csproj": {
+    "C:\\TesteTecnicoDigitas\\app\\src\\TesteTecnicoDigitas.Domain\\TesteTecnicoDigitas.Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\acard\\source\\repos\\TesteTecnicoDigitas\\app\\src\\TesteTecnicoDigitas.Domain\\TesteTecnicoDigitas.Domain.csproj",
+        "projectUniqueName": "C:\\TesteTecnicoDigitas\\app\\src\\TesteTecnicoDigitas.Domain\\TesteTecnicoDigitas.Domain.csproj",
         "projectName": "TesteTecnicoDigitas.Domain",
-        "projectPath": "C:\\Users\\acard\\source\\repos\\TesteTecnicoDigitas\\app\\src\\TesteTecnicoDigitas.Domain\\TesteTecnicoDigitas.Domain.csproj",
+        "projectPath": "C:\\TesteTecnicoDigitas\\app\\src\\TesteTecnicoDigitas.Domain\\TesteTecnicoDigitas.Domain.csproj",
         "packagesPath": "C:\\Users\\acard\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\acard\\source\\repos\\TesteTecnicoDigitas\\app\\src\\TesteTecnicoDigitas.Domain\\obj\\",
+        "outputPath": "C:\\TesteTecnicoDigitas\\app\\src\\TesteTecnicoDigitas.Domain\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -159,14 +159,14 @@
         }
       }
     },
-    "C:\\Users\\acard\\source\\repos\\TesteTecnicoDigitas\\app\\src\\TesteTecnicoDigitas.Infrastructure\\TesteTecnicoDigitas.Infrastructure.csproj": {
+    "C:\\TesteTecnicoDigitas\\app\\src\\TesteTecnicoDigitas.Infrastructure\\TesteTecnicoDigitas.Infrastructure.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\acard\\source\\repos\\TesteTecnicoDigitas\\app\\src\\TesteTecnicoDigitas.Infrastructure\\TesteTecnicoDigitas.Infrastructure.csproj",
+        "projectUniqueName": "C:\\TesteTecnicoDigitas\\app\\src\\TesteTecnicoDigitas.Infrastructure\\TesteTecnicoDigitas.Infrastructure.csproj",
         "projectName": "TesteTecnicoDigitas.Infrastructure",
-        "projectPath": "C:\\Users\\acard\\source\\repos\\TesteTecnicoDigitas\\app\\src\\TesteTecnicoDigitas.Infrastructure\\TesteTecnicoDigitas.Infrastructure.csproj",
+        "projectPath": "C:\\TesteTecnicoDigitas\\app\\src\\TesteTecnicoDigitas.Infrastructure\\TesteTecnicoDigitas.Infrastructure.csproj",
         "packagesPath": "C:\\Users\\acard\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\acard\\source\\repos\\TesteTecnicoDigitas\\app\\src\\TesteTecnicoDigitas.Infrastructure\\obj\\",
+        "outputPath": "C:\\TesteTecnicoDigitas\\app\\src\\TesteTecnicoDigitas.Infrastructure\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -188,8 +188,8 @@
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "C:\\Users\\acard\\source\\repos\\TesteTecnicoDigitas\\app\\src\\TesteTecnicoDigitas.Domain\\TesteTecnicoDigitas.Domain.csproj": {
-                "projectPath": "C:\\Users\\acard\\source\\repos\\TesteTecnicoDigitas\\app\\src\\TesteTecnicoDigitas.Domain\\TesteTecnicoDigitas.Domain.csproj"
+              "C:\\TesteTecnicoDigitas\\app\\src\\TesteTecnicoDigitas.Domain\\TesteTecnicoDigitas.Domain.csproj": {
+                "projectPath": "C:\\TesteTecnicoDigitas\\app\\src\\TesteTecnicoDigitas.Domain\\TesteTecnicoDigitas.Domain.csproj"
               }
             }
           }

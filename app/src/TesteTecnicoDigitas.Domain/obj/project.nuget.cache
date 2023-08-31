@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "vM2xU1uq0O03mK6V73uKmkVy9ktYsR+M6Im4FnEkPuWtVi6H7KRdPkOFutk0KmF1qAxpLggrk/Wi2XEDAnVWig==",
+  "dgSpecHash": "eOPop6nmLhNHHJ0EUD/5cYC0FSEjbRnozvkbegU6Z7LSeKhir03ISj8MelagZLCSc6Ts3p1yuAPEM0UIKRul4Q==",
   "success": true,
-  "projectFilePath": "C:\\Users\\acard\\source\\repos\\TesteTecnicoDigitas\\app\\src\\TesteTecnicoDigitas.Domain\\TesteTecnicoDigitas.Domain.csproj",
+  "projectFilePath": "C:\\TesteTecnicoDigitas\\app\\src\\TesteTecnicoDigitas.Domain\\TesteTecnicoDigitas.Domain.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\acard\\.nuget\\packages\\mediatr\\12.1.1\\mediatr.12.1.1.nupkg.sha512",
     "C:\\Users\\acard\\.nuget\\packages\\mediatr.contracts\\2.0.1\\mediatr.contracts.2.0.1.nupkg.sha512",
